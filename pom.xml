@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yu</groupId>
-    <artifactId>yu-adi-code-mother</artifactId>
+    <artifactId>yu-ai-code-mother</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>yu-adi-code-mother</name>
     <description>yu-adi-code-mother</description>
